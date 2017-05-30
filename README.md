@@ -1,19 +1,13 @@
 
 ## Technologies Used
   1. HTML / CSS / Javascript
-  2. jQuery ``v3.1.1``
+  2. jQuery
+  3. Bootstrap
+  4. Animated CSS
 
+#### Note: APP is designed for mobile view
 
-## How To Use Template App
-  1. Fork or download zip file
-  2. Template has all files sourced in and working
-  3. Template includes jquery.js file version ``v3.1.1``
-  4. Include Javascript in client.js in the
-      `` $(document).ready(function() {
-
-            Insert Javascript Here
-
-    }); ``
+###### App Can be Viewed at: https://hokey-pokey.herokuapp.com/
 
 ---
 
