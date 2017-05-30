@@ -1,4 +1,14 @@
 
+.header {
+  padding: 200px;
+  font-size: 100px;
+  text-align: center;
+}
+
 .center {
   text-align: center;
+}
+
+.vid {
+  height: 1800px;
 }
