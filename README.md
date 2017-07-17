@@ -1,4 +1,18 @@
 
+# Custer State Park Chuckwagon
+#### Family trip over Memorial Weekend to South Dakota's Badlands, Mount Rushmore, Keystone and Custer State Park.  At Custer State Park we decided to do a fourwheeling tour through the park followed up with a chuckwagon dinner after.  After dinner, I caught my Father dancing and completely out of his comfort zone.  This is a tribute to that great experience!
+
+###### Animated Heading:
+<img src="./images/screenshots/heading.png" width="50%">
+
+###### Animated Picture:
+<img src="./images/screenshots/picture.png" width="50%">
+
+###### Video Evidence Of The Dance:
+<img src="./images/screenshots/video.png" width="50%">
+
+---
+
 ## Technologies Used
   1. HTML / CSS / Javascript
   2. jQuery
